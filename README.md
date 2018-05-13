@@ -18,7 +18,7 @@ In the GCP Console carry out the following commands:
 
 `kubectl create secret generic mysql --from-literal=password=[YOUR_PASSWORD]`
 
-**Demo**
+**Demo Part 1**
 
 make sure your in the right directory..
 
